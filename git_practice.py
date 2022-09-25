@@ -4,6 +4,11 @@ def add(x, y):
 def prod(x, y):
     return x*y
 
+<<<<<<< HEAD
 
 def subtract(x, y):
     return x -y
+=======
+def remain(x,y):
+    return x % y
+>>>>>>> test2
